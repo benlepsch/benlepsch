@@ -1,4 +1,9 @@
-mer your mn saskek yiolc
+ Hello!
+
+ My name is Ben Lepsch. I recently graduated from the University of Virginia Engineering School with a degree in Computer Science, and I'm currently looking for a job in software / web development. In my free time, I enjoy rock climbing, playing banjo and guitar, and fixing my car when it decides it's time to break.
+ 
+ 
+ Feel free to contact me at `blepsch@gmail.com` or on Discord `@blepsh` -- I'm always open to chat about programming, rock climbing, 90s Japanese trucks, minecraft, you name it 
 
 <!--
 **benlepsch/benlepsch** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
