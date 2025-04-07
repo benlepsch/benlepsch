@@ -5,4 +5,4 @@
  
  Feel free to contact me at `blepsch@gmail.com` or on Discord `@blepsh` -- I'm always open to chat about programming, rock climbing, 90s Japanese trucks, minecraft, you name it 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=benlepsch)](https://github.com/anuraghazra/github-readme-stats)
